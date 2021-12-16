@@ -1,6 +1,4 @@
 - ## 1.效果
-
-  ![IMG_20210418_131338.jpg](https://www.qiuming.top/upload/2021/04/IMG_20210418_131338-1a8fa0929e114f1ebd31ba44d56934b3.jpg)![IMG_20210418_140315.jpg](https://www.qiuming.top/upload/2021/04/IMG_20210418_140315-77ce3bb042d04e02be2374d4af112b4e.jpg)
   ![IMG_20210418_140317.jpg](https://github.com/T-yanghui/electricizeMyKindle/blob/master/images/effect.jpg)
   ## 2.技术框架
 
